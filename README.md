@@ -11,7 +11,7 @@
 ```
 # Description
 
-**Reef CTF** is a lightweight CLI tool built for automating the repetitive and time-consuming parts of **Active Directory enumeration** — designed for CTFs (Hack The Box, TryHackMe, etc.), home labs, and educational use.
+**Reef CTF** is a lightweight CLI tool built for automating the repetitive and time-consuming parts of **Active Directory enumeration & exploitation** — designed for CTFs (Hack The Box, TryHackMe, etc.), home labs, and educational use.
 
 # Dependencies
 
