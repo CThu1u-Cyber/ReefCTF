@@ -84,8 +84,10 @@ DISCLAIMER:
     written permission to test.
 [+] The creator(s) of this tool are not responsible for any misuse or damage resulting from its use.
 
-[*] Enter path to Nmap file: company.nmap
-
+[*] Enter path to Nmap file: 
+```
+NMAP FILE : `company.nmap`
+```go
 [*] Parsing target domain data from Nmap output...
 
 Parsed Domain Controllers:
