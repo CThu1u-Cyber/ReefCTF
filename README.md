@@ -1,5 +1,14 @@
 # ReefCTF
+```go
+    ____            ____   __________________
+   / __ \___  ___  / __/  / ____/_  __/ ____/
+  / /_/ / _ \/ _ \/ /_   / /     / / / /_
+ / _, _/  __/  __/ __/  / /___  / / / __/
+/_/ |_|\___/\___/_/     \____/ /_/ /_/
 
+[+] Active Directory Pentest Automation Framework for Lazy Hackers ;) Happy Hunting!
+[+] Developer : CThu1hu
+```
 # Description
 
 **Reef CTF** is a lightweight CLI tool built for automating the repetitive and time-consuming parts of **Active Directory enumeration** — designed for CTFs (Hack The Box, TryHackMe, etc.), home labs, and educational use.
@@ -24,19 +33,19 @@
 
 Clone the repository:
 
-```fortran
+```go
 git clone https://github.com/CThu1u-Cyber/ReefCTF.git
 ```
 
 If the binary isn’t present, run:
 
-```fortran
+```go
 go build -o reef main.go
 ```
 
 If you want to run the tool anywhere, run:
 
-```fortran
+```go
 cp /current/path/ReefCTF ~/.local/bin/
 ```
 
